@@ -1,1 +1,3 @@
-const text = "text";
+const text = 'text';
+
+const olhaEuAqui = 'eu';
